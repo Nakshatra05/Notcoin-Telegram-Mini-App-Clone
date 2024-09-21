@@ -13,7 +13,7 @@ To get started with the final version, follow these instructions:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
+    git clone https://github.com/Nakshatra05/Notcoin-Telegram-Mini-App-Clone.git
     cd Notcoin-Telegram-Mini-App-Clone
     ```
 
